@@ -1,0 +1,232 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Bamako",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "waw 😃",
+      "position": {
+        "lat": 2.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 943197
+    },
+    {
+      "cityName": "Abidjan",
+      "country": "Ivory Coast",
+      "emoji": "🇨🇮",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "wow 🤴",
+      "position": {
+        "lat": 1.53586782505711,
+        "lng": 33.376933665713324
+      },
+      "id": 943674197
+    },
+    {
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "wow 👳‍♂️",
+      "position": {
+        "lat": 21.53586782505711,
+        "lng": 63.376933665713324
+      },
+      "id": 4197
+    },
+    {
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-11-02T04:01:30.224Z",
+      "notes": "bienvenue",
+      "position": {
+        "lat": "18.97379124072343",
+        "lng": "72.82562255859376"
+      },
+      "id": 943674198
+    },
+    {
+      "cityName": "Butler",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-11-02T04:02:03.045Z",
+      "notes": "",
+      "position": {
+        "lat": "35.63996019977259",
+        "lng": "-99.36035156250001"
+      },
+      "id": 943674199
+    },
+    {
+      "cityName": "Balakhta",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-11-02T04:04:25.928Z",
+      "notes": "sdad",
+      "position": {
+        "lat": "55.30363898023706",
+        "lng": "91.45237500000003"
+      },
+      "id": 943674200
+    },
+    {
+      "cityName": "Balakhta",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-11-02T04:04:53.768Z",
+      "notes": "",
+      "position": {
+        "lat": "55.30363898023706",
+        "lng": "91.45237500000003"
+      },
+      "id": 943674201
+    },
+    {
+      "cityName": "Ikela",
+      "country": "Congo (the Democratic Republic of the)",
+      "emoji": "🇨🇩",
+      "date": "2024-11-02T04:11:48.952Z",
+      "notes": "hii",
+      "position": {
+        "lat": "-1.031093155687753",
+        "lng": "23.027343750000004"
+      },
+      "id": 943674202
+    },
+    {
+      "cityName": "Jur River County",
+      "country": "South Sudan",
+      "emoji": "🇸🇸",
+      "date": "2024-11-02T04:12:33.695Z",
+      "notes": "fsdfsfs",
+      "position": {
+        "lat": "7.539133921432742",
+        "lng": "28.388671875000004"
+      },
+      "id": 943674203
+    },
+    {
+      "cityName": "Jur River County",
+      "country": "South Sudan",
+      "emoji": "🇸🇸",
+      "date": "2024-11-02T04:12:33.695Z",
+      "notes": "fsdfsfs",
+      "position": {
+        "lat": "7.539133921432742",
+        "lng": "28.388671875000004"
+      },
+      "id": 943674204
+    },
+    {
+      "cityName": "Abidjan",
+      "country": "Cote d'Ivoire",
+      "emoji": "🇨🇮",
+      "date": "2024-11-02T04:16:24.768Z",
+      "notes": "hiiiii",
+      "position": {
+        "lat": "5.38669090551239",
+        "lng": "-3.973960876464844"
+      },
+      "id": 943674205
+    },
+    {
+      "cityName": "Rufisque",
+      "country": "Senegal",
+      "emoji": "🇸🇳",
+      "date": "2024-11-03T10:42:37.366Z",
+      "notes": "cooll",
+      "position": {
+        "lat": "14.721760679027714",
+        "lng": "-17.205192793706825"
+      },
+      "id": 943674206
+    },
+    {
+      "cityName": "Todaraisingh",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-11-03T10:56:10.142Z",
+      "notes": "amazing trip ",
+      "position": {
+        "lat": "26.13600807581757",
+        "lng": "75.24902626324648"
+      },
+      "id": 943674207
+    },
+    {
+      "cityName": "Tanout",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2024-11-03T10:58:36.236Z",
+      "notes": "sssss",
+      "position": {
+        "lat": "15.394812878737442",
+        "lng": "7.51158605023147"
+      },
+      "id": 943674208
+    },
+    {
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-11-05T11:22:04.582Z",
+      "notes": "Amazing ",
+      "position": {
+        "lat": "13.057979718879848",
+        "lng": "77.59574893534929"
+      },
+      "id": 943674209
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-11-01T12:19:14.000Z",
+      "notes": "just wawww",
+      "position": {
+        "lat": "48.84100906191737",
+        "lng": "2.3663179178101905"
+      },
+      "id": 943674210
+    }
+  ]
+}
